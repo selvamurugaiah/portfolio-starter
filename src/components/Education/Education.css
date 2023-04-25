@@ -1,0 +1,55 @@
+.education{
+    display: flex;
+    flex: 1;
+    gap: 0.5rem;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: auto;
+    border-left: 10px solid white;
+    border-right: 10px solid white;
+    margin-bottom: 15rem;
+    height: 100%; 
+    border-radius: 20px;
+    
+}
+ .e-journey{
+    color: rgb(21, 199, 234);
+    font-size: 35px;
+    
+ }
+ .e-heading{
+    font-size: 35px;
+ }
+
+
+.i-left{
+    display: flex;
+    position: relative;
+    flex:1;
+    flex-direction: column;
+    gap:2rem;
+}
+
+.edu-right{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+.edu-heading{
+    position: relative;
+    right: 300px;
+    font-size: 25px;
+}
+.ex-heading{
+    position: relative;
+    bottom:740px;
+    left:300px;
+    font-size: 25px;
+}
+.experience{
+    position: relative;
+    bottom:740px;
+    left:600px; 
+}
+
